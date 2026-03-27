@@ -1,0 +1,11 @@
+title: AI Builders Digest
+description: 每日精选 AI 领域顶尖建设者的洞察与思考
+author: Zane Zhou
+theme: jekyll-theme-cayman
+show_downloads: false
+google_analytics: 
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+permalink: /digests/:year/:month/:day/
