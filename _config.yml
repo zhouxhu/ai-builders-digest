@@ -1,5 +1,5 @@
-title: AI Builders Digest
-description: 每日精选 AI 领域顶尖建设者的洞察与思考 + 全球新闻速递
+title: Daily Digest
+description: 每日精选 AI 洞察与全球新闻
 author: Zane Zhou
 theme: jekyll-theme-cayman
 show_downloads: false
@@ -7,20 +7,3 @@ markdown: kramdown
 kramdown:
   input: GFM
   syntax_highlighter: rouge
-
-defaults:
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "default"
-  - scope:
-      path: "_posts/ai"
-    values:
-      section: "ai"
-      permalink: /ai-builders/:year/:month/:day/
-  - scope:
-      path: "_posts/news"
-    values:
-      section: "news"
-      permalink: /news/:year/:month/:day/
