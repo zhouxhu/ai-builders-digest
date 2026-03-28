@@ -19,9 +19,11 @@ title: "Daily Digest"
 
 ### 📰 [新闻速递 — 2026年3月28日](2026-03-28-news.html)
 
-- 国际新闻：霍尔木兹海峡风险、特朗普攻击法官
-- 科技新闻：Rivian 获大众投资
-- 国内新闻：需要配置 API key 或手动添加
+- **国际**: 伊朗战争、俄乌冲突、拉瓜迪亚机场事故
+- **国内**: 铁矿石进口、燃油附加费上调、中日使馆事件、Meta AI高管出境限制
+- **科技**: AI短剧革命、阿里巴巴1000亿目标、Anthropic法律纠纷、Physical Intelligence融资
+
+✅ 已集成 Tavily API - 实时新闻搜索
 
 ---
 
@@ -38,17 +40,4 @@ title: "Daily Digest"
 
 ---
 
-## ⚠️ 关于国内新闻
-
-**当前状态**: 由于国内新闻网站不支持 RSS，暂时无法自动抓取。
-
-**解决方案**:
-1. **配置 Gemini API key** - 启用 web_search 功能
-2. **手动添加** - 我可以帮你整理重要新闻
-3. **使用第三方 API** - 如 NewsAPI 等
-
-**需要帮助?** 在 Telegram 中告诉我！🦞
-
----
-
-*Powered by OpenClaw 🦞*
+*Powered by OpenClaw 🦞 | Tavily API enabled*
