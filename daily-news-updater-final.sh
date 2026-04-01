@@ -22,16 +22,18 @@ fi
 fetch_news_count() {
     local search_query="$1"
     
+    local tmpfile=$(mktemp /tmp/news-XXXXXX.txt)
+    
     # Use the tavily skill to fetch news
-    node "$SCRIPT_DIR/scripts/search.mjs" "$search_query" --topic news --days 1 > temp_news.txt 2>&1
+    node "$SCRIPT_DIR/scripts/search.mjs" "$search_query" --topic news --days 1 > "$tmpfile" 2>&1
     
     # Count articles
-    if [ -s temp_news.txt ]; then
-        local count=$(grep -c "Title:" temp_news.txt || echo "0")
-        rm -f temp_news.txt
+    if [ -s "$tmpfile" ]; then
+        local count=$(grep -cE '^\- \*\*' "$tmpfile" || echo "0")
+        rm -f "$tmpfile"
         echo "$count"
     else
-        rm -f temp_news.txt
+        rm -f "$tmpfile"
         echo "0"
     fi
 }
@@ -42,36 +44,56 @@ format_news_content() {
     local section_title="$2"
     local search_query="$3"
     
-    echo "🔍 Fetching $topic news..."
+    echo "🔍 Fetching $topic news..." >&2
+    
+    local tmpfile=$(mktemp /tmp/news-XXXXXX.txt)
     
     # Use the tavily skill to fetch news
-    node "$SCRIPT_DIR/scripts/search.mjs" "$search_query" --topic news --days 1 > temp_news.txt 2>&1
+    node "$SCRIPT_DIR/scripts/search.mjs" "$search_query" --topic news --days 1 > "$tmpfile" 2>&1
     
     # Process results
-    if [ -s temp_news.txt ]; then
+    if [ -s "$tmpfile" ]; then
         # Add section header
         echo "## 📰 $section_title"
         echo ""
         
-        # Extract and format news articles
+        # Extract and format news articles from Tavily markdown output
         local processed_articles=0
-        grep "Title:" temp_news.txt | head -8 | while read -r line; do
-            if [ $processed_articles -ge 5 ]; then
+        local in_sources=false
+        local current_title=""
+        local current_url=""
+
+        while IFS= read -r line; do
+            # Detect start of Sources section
+            if [[ "$line" == "## Sources" ]]; then
+                in_sources=true
+                continue
+            fi
+
+            if [ "$in_sources" = true ] && [ "$processed_articles" -ge 5 ]; then
                 break
             fi
-            
-            title=$(echo "$line" | sed 's/Title: //')
-            echo "- **$title**"
-            
-            # Find the corresponding URL (next line after Title)
-            url_line=$(sed -n "/Title: $title/{n; p}" temp_news.txt | sed 's/URL: //')
-            if [[ "$url_line" == http* ]]; then
-                echo "  $url_line"
-                echo ""
+
+            # Extract title from markdown bold: - **Title text**
+            if [ "$in_sources" = true ]; then
+                if [[ "$line" =~ ^-\ \*\*(.+)\*\* ]]; then
+                    current_title="${BASH_REMATCH[1]}"
+                    # Remove trailing "(relevance: XX%)" if present
+                    current_title=$(echo "$current_title" | sed 's/ (relevance: [0-9]*%)$//')
+                    # Remove any trailing URL in parentheses
+                    current_title=$(echo "$current_title" | sed 's/ (https\?:[^)]*)$//')
+                    echo "- **$current_title**"
+                    current_url=""
+                # Extract URL from the next line
+                elif [[ -n "$current_title" && "$line" =~ https?:// ]]; then
+                    current_url=$(echo "$line" | grep -oE 'https?://[^[:space:]]+' | head -1)
+                    echo "  <$current_url>"
+                    echo ""
+                    processed_articles=$((processed_articles + 1))
+                    current_title=""
+                fi
             fi
-            
-            ((processed_articles++))
-        done
+        done < "$tmpfile"
     else
         echo "## 📰 $section_title"
         echo ""
@@ -80,7 +102,7 @@ format_news_content() {
     echo ""
     
     # Clean up
-    rm -f temp_news.txt
+    rm -f "$tmpfile"
 }
 
 # Create news file for today
@@ -102,14 +124,14 @@ international_count=$(fetch_news_count "今日国际新闻 全球要闻")
 china_count=$(fetch_news_count "今日国内新闻 中国要闻")
 tech_count=$(fetch_news_count "科技新闻 AI人工智能 财经要闻")
 
-# Format news content
-format_news_content "international" "🌍 国际新闻" "今日国际新闻 全球要闻"
+# Format news content (redirect function output to file)
+format_news_content "international" "🌍 国际新闻" "今日国际新闻 全球要闻" >> "$NEWS_FILE"
 echo "---" >> "$NEWS_FILE"
 
-format_news_content "china" "🇨🇳 国内新闻" "今日国内新闻 中国要闻"
+format_news_content "china" "🇨🇳 国内新闻" "今日国内新闻 中国要闻" >> "$NEWS_FILE"
 echo "---" >> "$NEWS_FILE"
 
-format_news_content "tech" "💼 财经科技" "科技新闻 AI人工智能 财经要闻"
+format_news_content "tech" "💼 财经科技" "科技新闻 AI人工智能 财经要闻" >> "$NEWS_FILE"
 echo "---" >> "$NEWS_FILE"
 
 # Calculate total articles

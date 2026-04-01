@@ -19,25 +19,7 @@ if [ -z "$TAVILY_API_KEY" ]; then
 fi
 
 # Function to fetch news using Tavily skill
-fetch_news_count() {
-    local search_query="$1"
-    
-    # Use the tavily skill to fetch news
-    node "$SCRIPT_DIR/scripts/search.mjs" "$search_query" --topic news --days 1 > temp_news.txt 2>&1
-    
-    # Count articles
-    if [ -s temp_news.txt ]; then
-        local count=$(grep -c "Title:" temp_news.txt || echo "0")
-        rm -f temp_news.txt
-        echo "$count"
-    else
-        rm -f temp_news.txt
-        echo "0"
-    fi
-}
-
-# Function to format news content
-format_news_content() {
+fetch_and_format_news() {
     local topic="$1"
     local section_title="$2"
     local search_query="$3"
@@ -49,6 +31,9 @@ format_news_content() {
     
     # Process results
     if [ -s temp_news.txt ]; then
+        # Count articles (rough estimate)
+        local article_count=$(grep -c "Title:" temp_news.txt || echo "0")
+        
         # Add section header
         echo "## 📰 $section_title"
         echo ""
@@ -72,15 +57,18 @@ format_news_content() {
             
             ((processed_articles++))
         done
+        
+        # Clean up
+        rm -f temp_news.txt
+        
+        echo "$article_count"
     else
         echo "## 📰 $section_title"
         echo ""
         echo "*暂无新闻数据*"
+        echo ""
+        echo "0"
     fi
-    echo ""
-    
-    # Clean up
-    rm -f temp_news.txt
 }
 
 # Create news file for today
@@ -97,19 +85,14 @@ date: $DATE
 
 EOF
 
-# Count articles for each category
-international_count=$(fetch_news_count "今日国际新闻 全球要闻")
-china_count=$(fetch_news_count "今日国内新闻 中国要闻")
-tech_count=$(fetch_news_count "科技新闻 AI人工智能 财经要闻")
-
-# Format news content
-format_news_content "international" "🌍 国际新闻" "今日国际新闻 全球要闻"
+# Fetch news for each category
+international_count=$(fetch_and_format_news "international" "🌍 国际新闻" "今日国际新闻 全球要闻")
 echo "---" >> "$NEWS_FILE"
 
-format_news_content "china" "🇨🇳 国内新闻" "今日国内新闻 中国要闻"
+china_count=$(fetch_and_format_news "china" "🇨🇳 国内新闻" "今日国内新闻 中国要闻")
 echo "---" >> "$NEWS_FILE"
 
-format_news_content "tech" "💼 财经科技" "科技新闻 AI人工智能 财经要闻"
+tech_count=$(fetch_and_format_news "tech" "💼 财经科技" "科技新闻 AI人工智能 财经要闻")
 echo "---" >> "$NEWS_FILE"
 
 # Calculate total articles
@@ -136,6 +119,9 @@ cat >> "$NEWS_FILE" << EOF
 
 所有新闻数据均来自 Tavily API 实时搜索结果。
 EOF
+
+# Clean up temporary files
+rm -f temp_news.txt
 
 # Git operations
 echo "📝 Committing changes to git..."
