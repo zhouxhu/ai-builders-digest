@@ -1,11 +1,69 @@
 ---
 layout: default
-title: "新闻速递 — 2026-04-02"
-date: 2026-04-02
+title: "新闻速递 — 2026-04-03"
+date: 2026-04-03
 section: news
 ---
 
-# 📰 新闻速递 — 2026-04-02
+# 📰 新闻速递 — 2026-04-03
+
+---
+
+## 🌍 国际新闻
+
+### Marmalade to be re-branded in post-Brexit food deal
+
+The breakfast favourite will be legally renamed when Britain aligns with new EU labelling rules.
+
+📎 [阅读原文](https://www.bbc.com/news/articles/c0e53x475qjo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### Police offered support to tackle rising threats against MPs
+
+Reports of crimes against MPs have more than doubled since 2019, reaching almost 1,000 last year.
+
+📎 [阅读原文](https://www.bbc.com/news/articles/c8ej47g6w3jo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### Trump removes US Attorney General Pam Bondi
+
+Bondi's time as America's top law enforcement officer was overshadowed by the justice department's handling of the Jeffrey Epstein investigation.
+
+📎 [阅读原文](https://www.bbc.com/news/articles/ce843ge47z4o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### Haberman reveals why Trump attacked judge and his family in speech
+
+CNN political contributor Maggie Haberman explains the reasoning behind Donald Trump's attacks on the judge and his family during a speech at his Mar-a-Lago resort after he was arraigned on felony charges.
+
+📎 [阅读原文](https://www.cnn.com/videos/politics/2023/04/05/maggie-haberman-donald-trump-speech-indictment-reaction-sot-cnntm-vpx.cnn)
+
+---
+
+### US court orders resentencing for Colorado clerk involved in election scheme
+
+Former clerk Tina Peters has become a cause celebre for the election denial movement and President Donald Trump.
+
+📎 [阅读原文](https://www.aljazeera.com/news/2026/4/2/us-court-orders-resentencing-for-colorado-clerk-involved-in-election-scheme?traffic_source=rss)
+
+---
+
+### Rights groups, Milwaukee leaders slam ICE’s arrest of Palestinian advocate
+
+Salah Sarsour, the president of Islamic Society of Milwaukee, was reportedly detained while driving on March 30.
+
+📎 [阅读原文](https://www.aljazeera.com/news/2026/4/2/rights-groups-milwaukee-leaders-slam-ices-arrest-of-palestinian-advocate?traffic_source=rss)
+
+---
+
+### Unbridled Bosnian joy marks World Cup qualification win over Italy
+
+Bosnia and Herzegovina's dramatic win over Italy sparks wild celebrations from Zenica to Sarajevo and evokes memories.
+
+📎 [阅读原文](https://www.aljazeera.com/sports/2026/4/2/unbridled-bosnian-joy-marks-world-cup-qualification-win-over-italy?traffic_source=rss)
 
 ---
 
@@ -101,85 +159,85 @@ A high-level international advisory body applauded China's efforts to improve th
 
 ---
 
-### De-fi platform Drift suspends deposits and withdrawals after millions in crypto stolen in hack
+### Amazon hits sellers with ‘fuel surcharge’ as Iran war roils global energy markets
 
-Blockchain trackers put the cryptocurrency heist in the hundreds of millions of dollars and is already on track to be the largest crypto theft in 2026 so far.
+The e-commerce giant called the surcharge "temporary" but couldn't give a date for when the policy would be retired.
 
-📎 [阅读原文](https://techcrunch.com/2026/04/01/de-fi-platform-drift-suspends-deposits-and-withdrawals-after-millions-in-crypto-stolen-in-hack/)
-
----
-
-### Anthropic took down thousands of GitHub repos trying to yank its leaked source code — a move the company says was an accident
-
-Anthropic executives said it was an accident and retracted the bulk of the takedown notices.
-
-📎 [阅读原文](https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/)
+📎 [阅读原文](https://techcrunch.com/2026/04/02/amazon-hits-sellers-with-fuel-surcharge-as-iran-war-roils-global-energy-markets/)
 
 ---
 
-### The reputation of troubled YC startup Delve has gotten even worse
+### Telehealth giant Hims & Hers says its customer support system was hacked
 
-Delve faces new allegations that it violated the open source license of its customer, Sim.ai, by taking the customers's tool and passing it off as its own.
+The U.S. telehealth giant says hackers stole customer support ticket data over the course of several days in February.
 
-📎 [阅读原文](https://techcrunch.com/2026/04/01/the-reputation-of-troubled-yc-startup-delve-has-gotten-even-worse/)
-
----
-
-### A.I. Helped One Man (and His Brother) Build a $1.8B Company
-
-Article URL: https://www.nytimes.com/2026/04/02/technology/ai-billion-dollar-company-medvi.html Comments URL: https://news.ycombinator.com/item?id=47612784 Points: 7 # Comments: 1
-
-📎 [阅读原文](https://www.nytimes.com/2026/04/02/technology/ai-billion-dollar-company-medvi.html)
+📎 [阅读原文](https://techcrunch.com/2026/04/02/telehealth-giant-hims-hers-says-its-customer-support-system-was-hacked/)
 
 ---
 
-### Sweden goes back to basics, swapping screens for books in the classroom
+### Artemis II is NASA’s last moon mission without Silicon Valley
 
-Article URL: https://undark.org/2026/04/01/sweden-schools-books/ Comments URL: https://news.ycombinator.com/item?id=47612601 Points: 88 # Comments: 36
+Next time around, the pressure will be on SpaceX and Blue Origin.
 
-📎 [阅读原文](https://undark.org/2026/04/01/sweden-schools-books/)
-
----
-
-### Enabling Codex to Analyze Two Decades of Hacker News Data
-
-Article URL: https://modolap.com/publication/hn-analysis-1 Comments URL: https://news.ycombinator.com/item?id=47612558 Points: 7 # Comments: 1
-
-📎 [阅读原文](https://modolap.com/publication/hn-analysis-1)
+📎 [阅读原文](https://techcrunch.com/2026/04/02/artemis-ii-is-nasas-last-moon-mission-without-silicon-valley/)
 
 ---
 
-### Artemis II, NASA's boldest mission in generations, launches crew to the Moon
+### Memo: A language that remembers only the last 12 lines of code
 
-Liftoff of Artemis II with four astronauts occurred at 6:35 pm EDT (22:35 UTC) on Wednesday.
+Article URL: https://danieltemkin.com/Esolangs/Memo/ Comments URL: https://news.ycombinator.com/item?id=47620933 Points: 7 # Comments: 0
 
-📎 [阅读原文](https://arstechnica.com/space/2026/04/four-astronauts-depart-for-the-moon-with-a-fiery-send-off-from-cape-canaveral/)
-
----
-
-### Nvidia rolls out its fix for PC gaming's "compiling shaders" wait times
-
-Microsoft, Intel are also working on their own solutions for the issue.
-
-📎 [阅读原文](https://arstechnica.com/gaming/2026/04/nvidias-new-app-lets-you-precompile-gaming-shaders-during-machine-idle-time/)
+📎 [阅读原文](https://danieltemkin.com/Esolangs/Memo/)
 
 ---
 
-### Here's what that Claude Code source leak reveals about Anthropic's plans
+### ParadeDB (YC S23) Is Hiring Database Internal Engineers (Rust)
 
-A persistent agent, stealth "Undercover" mode, and... a virtual assistant named Buddy?
+Article URL: https://paradedb.notion.site/ Comments URL: https://news.ycombinator.com/item?id=47620857 Points: 0 # Comments: 0
 
-📎 [阅读原文](https://arstechnica.com/ai/2026/04/heres-what-that-claude-code-source-leak-reveals-about-anthropics-plans/)
+📎 [阅读原文](https://paradedb.notion.site/)
+
+---
+
+### Zep AI Is Hiring – Building the Agent Context Layer (YC W24)
+
+Article URL: https://www.ycombinator.com/companies/zep-ai/jobs Comments URL: https://news.ycombinator.com/item?id=47618602 Points: 0 # Comments: 0
+
+📎 [阅读原文](https://www.ycombinator.com/companies/zep-ai/jobs)
+
+---
+
+### Perplexity's "Incognito Mode" is a "sham," lawsuit says
+
+Google, Meta, and Perplexity accused of sharing millions of chats to increase ad revenue.
+
+📎 [阅读原文](https://arstechnica.com/tech-policy/2026/04/perplexitys-incognito-mode-is-a-sham-lawsuit-says/)
+
+---
+
+### SpaceX tries to convince FCC that Amazon put satellites into wrong altitude
+
+Amazon denies violation, says SpaceX caused conflict by lowering Starlink satellites.
+
+📎 [阅读原文](https://arstechnica.com/tech-policy/2026/04/spacex-claims-amazon-leo-launches-could-crash-into-starlink-satellites/)
+
+---
+
+### Google Vids gets AI upgrade with Veo and Lyria models, directable AI avatars
+
+Google Vids brings together Google's most capable AI creation tools.
+
+📎 [阅读原文](https://arstechnica.com/ai/2026/04/google-vids-gets-ai-upgrade-with-veo-and-lyria-models-directable-ai-avatars/)
 
 ---
 
 
 ---
 
-📊 **今日摘要**: 20 篇精选文章
+📊 **今日摘要**: 27 篇精选文章
 
-- 🌍 国际: 0 篇
+- 🌍 国际: 7 篇
 - 🇨🇳 国内: 8 篇
 - 💼 科技: 12 篇
 
-*Generated by OpenClaw News Aggregator at 20:05 GMT+8*
+*Generated by OpenClaw News Aggregator at 08:01 GMT+8*
