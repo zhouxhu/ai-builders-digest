@@ -1,116 +1,243 @@
 ---
 layout: default
-title: "新闻速递 — 2026年4月5日"
+title: "新闻速递 — 2026-04-05"
 date: 2026-04-05
 section: news
 ---
 
-# 📰 新闻速递 — 2026年4月5日（周日）
+# 📰 新闻速递 — 2026-04-05
+
+---
 
 ## 🌍 国际新闻
 
-### 美伊战争持续升级：第二架美军战机被击落
-霍尔木兹海峡冲突进一步恶化。伊朗击落第二架美军F-15E战机，一名飞行员已获救，另一名机组成员仍下落不明，美伊双方正在加紧搜救。伊朗拒绝特朗普要求重开海峡的最后通牒。此前特朗普宣称在德黑兰的空袭中打死了多名伊朗军事领导人，伊朗称这是"黑色耻辱星期五"。特朗普再发48小时通牒。
+### What we know so far about rescue of US airman in Iran
 
-### 中国企业向市场出售伊朗战争情报
-《华盛顿邮报》报道，多家中国企业正利用AI技术追踪美军在伊朗战区的部署和调动信息，并将这些情报产品推向市场，标价出售美军目标位置数据。这引发了对中美在伊冲突中信息角色的新关注。
+The US has rescued the missing crew member of the US F-15 fighter jet which was shot down over southern Iran.
 
-### 俄罗斯对乌克兰发动大规模空袭
-俄罗斯在复活节期间发动了"大规模"空袭，造成至少15人死亡、40多人受伤。泽连斯基指责俄罗斯选择了"复活节升级"而非停火。一架俄罗斯无人机击中乌克兰南部城镇市场，造成5死21伤。
+📎 [阅读原文](https://www.bbc.com/news/articles/cm2k1dgz142o?at_medium=RSS&at_campaign=rss)
 
-### 阿富汗5.8级地震致8人死亡
-阿富汗和巴基斯坦边境发生5.8级地震，喀布尔郊区至少8人死亡，其中包括一名从伊朗返回的难民家庭全部遇难。洪水和地震的双重灾害令阿富汗局势雪上加霜。
+---
 
-### 德国拟限制45岁以下男性出国
-德国政府计划要求45岁以下男性出国长期居留需获得军事部门批准，以应对当前紧张的国际安全局势。
+### 'Absolutely spectacular': Artemis II crew see first glimpse of far side of Moon
 
-### 美国逮捕苏莱曼尼亲属
-美国移民与海关执法局逮捕了已故伊朗将军卡西姆·苏莱曼尼的侄女和曾侄女，此前已吊销其绿卡。
+Astronauts on the Artemis II mission are on the third day of their journey around the far side of the Moon.
 
-### 英国伦敦犹太慈善机构救护车遭纵火袭击
-第四名嫌疑人被逮捕。该事件引发了对英国反犹主义上升的担忧。
+📎 [阅读原文](https://www.bbc.com/news/videos/ce3d5gkd2geo?at_medium=RSS&at_campaign=rss)
 
-## 🇺🇸 美国政治
+---
 
-### 司法部大换血：邦迪被撤职，托德·布兰奇接任
-白宫预计将进一步调整司法部领导层。Pam Bondi被撤职后，Todd Blanche接任司法部长。同时，法官阻止了司法部恢复对美联储Powell的大陪审团传票。另一名法官暂停了特朗普要求大学提供招生种族数据的行政令。
+### Keir Starmer 'concerned' over Kanye West UK festival dates
 
-### 五角大楼高层动荡
-国防部长Hegseth在伊朗战争期间解雇了陆军参谋长Randy George等三名高级将领，引发军方内部震惊。
+The festival's main sponsor Pepsi has withdrawn its funding from Wireless, it announced on Sunday.
 
-### 威斯康星最高法院选举倾向民主党
-在相对低调的竞选氛围中，民主党候选人占据优势。此外，2026年NFL选秀四分卫位置充满不确定性。
+📎 [阅读原文](https://www.bbc.com/news/articles/cp86942yj97o?at_medium=RSS&at_campaign=rss)
 
-### 特朗普寻求1.5万亿美元国防预算
-同时削减10%非国防支出。另有消息称特朗普寻求1.52亿美元重开恶魔岛监狱。
+---
 
-## 💼 财经经济
+### Haberman reveals why Trump attacked judge and his family in speech
 
-### 霍尔木兹海峡通行量回升至战争以来最高
-Bloomberg数据显示，尽管冲突持续，但海峡周通行量已达到开战以来最高水平。澳大利亚因伊朗战争导致全球石油运输中断，数百加油站燃油耗尽，燃料价格飙升。
+CNN political contributor Maggie Haberman explains the reasoning behind Donald Trump's attacks on the judge and his family during a speech at his Mar-a-Lago resort after he was arraigned on felony charges.
 
-### 房贷利率连续第五周高于6%
-虽然住房市场趋势对购房者有利，但伊朗战争为利率前景蒙上阴影。
+📎 [阅读原文](https://www.cnn.com/videos/politics/2023/04/05/maggie-haberman-donald-trump-speech-indictment-reaction-sot-cnntm-vpx.cnn)
 
-### 塞内加尔禁止部长出国旅行
-因油价上涨导致财政压力，塞内加尔禁止内阁部长出国。
+---
 
-### 欧洲重新考虑核能复兴
-面对战争引发的能源价格飙升，欧洲多国重新审视能源独立问题，核能复兴呼声高涨。
+### Jeremy Hansen is the first Canadian to head to the moon
 
-## 💻 科技
+Jeremy Hansen is the first Canadian to head to the moon
 
-### LinkedIn秘密扫描用户6000+ Chrome扩展
-BleepingComputer报道，LinkedIn在用户不知情的情况下注入代码，扫描用户浏览器中安装的6000多个Chrome扩展，并收集硬件数据。这一"BrowserGate"隐私事件引发广泛批评。
+📎 [阅读原文](https://www.aljazeera.com/video/newsfeed/2026/4/5/jeremy-hansen-is-the-first-canadian-to-head-to-the-moon?traffic_source=rss)
 
-### Chrome 148将原生支持视频/音频懒加载
-谷歌Chrome正在测试新功能，将原生支持视频和音频的懒加载，有望大幅提升页面加载速度。
+---
 
-### Apple CarPlay新增三个热门iPhone应用
-包括Google Meet原生CarPlay体验，以及另外两个热门iPhone应用登陆车机平台。
+### “We blame Trump”: Drivers line up for free gas as prices surge in the US
 
-### 三星Galaxy S26 Ultra发布
-尽管评价一般，但Galaxy S26 Ultra首日票房达4800万美元，创下2026年单日最高纪录。《超级马里奥银河》电影首周末票房超1.88亿美元。
+Drivers lined up for free gas in Chicago as fuel prices surge, driven by the US-Israeli war on Iran.
 
-### 中国太空算力产业平台成立
-工信部正逐步开展太空算力组网建设，大模型在轨部署稳步推进。"太空算力专业委员会"作为业界首个太空算力产业协同平台正式成立。
+📎 [阅读原文](https://www.aljazeera.com/video/newsfeed/2026/4/5/we-blame-trump-drivers-line-up-for-free-gas-as-prices-surge-in-the-us?traffic_source=rss)
 
-## 🚀 航天
+---
 
-### Artemis II宇航员已过半程前往月球
-NASA Artemis II任务第4天，宇航员已比距地球更接近月球。指令长Reid Wiseman拍下了"壮观"的地球照片。任务期间遭遇厕所问题（报告"焦糊味"），但地面团队已成功排除故障。宇航员正寻求打破阿波罗13号的速度记录。
+### Lamine Yamal’s anger after Barcelona’s La Liga win downplayed by Flick
 
-### Atlas V火箭发射最重载荷
-ULA的Atlas V火箭成功将29颗Amazon互联网卫星送入轨道，创下该火箭最重载荷纪录。
+Yamal's unhappiness at the end of the match against Atletico Madrid was over missed scoring opportunities, Flick says.
+
+📎 [阅读原文](https://www.aljazeera.com/sports/2026/4/5/lamine-yamals-anger-after-barcelonas-la-liga-win-downplayed-by-flick?traffic_source=rss)
+
+---
 
 ## 🇨🇳 国内新闻
 
-### 清明假期各地祭扫活动安全有序
-清明节假期首日，北京各大市属公园迎来58.57万人次游客。2026年清明档电影票房已破亿。
+### Education, health fees among key concerns
 
-### 马兴瑞被查
-中共中央政治局委员、新疆书记马兴瑞涉嫌严重违纪违法，正接受中央纪委国家监委纪律审查和监察调查。BBC评论称其为习时代"技术官僚"代表陨落。
+China to legislate on preschool education
 
-### 一季度消费品以旧换新销售额超4300亿元
-政策实施开局良好，惠及超6000万人次。国有六大行2025年业绩整体稳健增长，营收净利均实现"双增"。
-
-### 澳门世界杯乒乓球赛：王楚钦逆转晋级四强
-王楚钦在一场惊心动魄的七局大战中以4-3逆转达科，晋级单打世界杯四强，将再次对阵雨果。
-
-### 黎巴嫩局势持续恶化
-以军称即将空袭黎叙边境口岸，战火重燃已致黎方1422人死亡。以色列一议员住所遭伊朗导弹袭击。以军将领承认低估真主党实力。
-
-## 🎬 娱乐
-
-### 美国编剧工会与制片方达成协议
-WGA在合同到期前一个月与制片方达成意外协议，避免了可能的罢工。
-
-### Blake Lively诉Justin Baldoni案大部分被驳回
-法官驳回了大部分性骚扰指控，但Blake Lively表示将继续斗争。
-
-### COVID新变异株BA.3.2（"蝉"变异株）在美国扩散
-至少25个州检测到该变异株，儿童可能更易感染。专家呼吁警惕但不必恐慌。
+📎 [阅读原文](http://www.chinadaily.com.cn/a/201712/12/WS5a2f29d4a3108bc8c6721a30.html)
 
 ---
-*数据来源：Google News, BBC World, 新华社, 观察者网, 第一财经等*
-*生成时间：2026年4月5日 08:24 CST*
+
+### Education, health fees among key concerns
+
+China to legislate on preschool education
+
+📎 [阅读原文](http://www.chinadaily.com.cn/a/201712/12/WS5a2f29d4a3108bc8c6721a30.html)
+
+---
+
+### International group praises green revival
+
+A high-level international advisory body applauded China's efforts to improve the environment and suggested a 15-year strategy against pollution in a draft recommendation report on Monday.
+
+📎 [阅读原文](http://www.chinadaily.com.cn/a/201712/12/WS5a2f2701a3108bc8c6721a16.html)
+
+---
+
+### 疫情防控措施优化 各地复商复市进行时
+
+近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。
+
+📎 [阅读原文](http://www.news.cn/politics/2022-12/14/c_1129207168.htm)
+
+---
+
+### 国家卫健委发布新冠病毒疫苗第二剂次加强免疫接种实施方案
+
+为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。
+
+📎 [阅读原文](http://www.news.cn/politics/2022-12/14/c_1129207117.htm)
+
+---
+
+### 学习卡丨“人不负青山，青山定不负人”
+
+生态环境是关系党的使命宗旨的重大政治问题，也是关系民生的重大社会问题。 习近平总书记多次指出，必须站在中华民族永续发展根本大计的高度，尊重自然、顺应自然、保护自然，建设人与自然和谐共生的现代化，建设望得见山、看得见水、记得住乡愁的美丽中国。 今天（6月5日）是世界环境日。如何像保护眼睛一样保护自然和生态环境？一起学习↓↓↓ 总监制丨闫帅南 监制丨李浙 主编丨王兴栋 编辑&制图丨马玮璐
+
+📎 [阅读原文](http://politics.people.com.cn/n1/2025/0605/c1001-40494898.html)
+
+---
+
+### 镜观·足迹｜呵护千山万水 擘画永续发展
+
+大美中国，江山如画。 党的十八大以来，习近平总书记的考察足迹遍及神州大地。祁连山麓、坝上林海，秦岭深处、黄河之滨，总书记在大江奔涌处谋划千秋大计，在山川锦绣间擘画生态蓝图。一系列重要论述，为新时代生态文明建设提供了根本遵循和行动指南。 世界环境日到来之际，我们跟随习近平总书记的脚步，一起呵护山水、寄情山水，领悟守护绿水青山、建设生态文明之道。 江河为脉 心系长江之变，习近平总书记前往沿江重镇，考察长江经济带发展。从三峡库区到洞庭湖畔，从港口码头到企业车间，总书记深入调研，作出一系列重要指示，为新时代江河保护治理提供了重要遵循。 2018年4月，习近平总书记来到湖南岳阳城陵矶水文站考察。在狭窄的...
+
+📎 [阅读原文](http://politics.people.com.cn/n1/2025/0605/c1001-40494899.html)
+
+---
+
+### 学习手记 | “环境就是民生”
+
+6月5日是世界环境日，也是我国环境保护法确立的环境日。 22年前的这一天，在时任浙江省委书记习近平部署推动下，以农村人居环境整治为重点的“千万工程”启动。 当时，习近平同志担任浙江省委书记刚半年多，工作千头万绪。他何以将农村人居环境整治作为重点工作？ 在基层调研时，习近平同志发现，在浙江经济快速发展的同时，广大农村却面临“成长的烦恼”，村庄面貌不如人意。 全省3.4万个村庄中，人居环境较好的仅4000个。有人形容：“走过一村又一村，村村都是垃圾村。”还有农民这样描述：“起早贪黑赚钞票，垃圾堆里数钞票，躺在医院花钞票。”可以说，人居环境整治是当时浙江农村群众的一个迫切期盼。 “千万工程”聚焦乡亲...
+
+📎 [阅读原文](http://politics.people.com.cn/n1/2025/0605/c1001-40494900.html)
+
+---
+
+## 💼 财经科技
+
+### 36氪首发 | 清华系团队研发矿石AI智能分选机，完成近2亿元C轮融资
+
+作者丨欧雪 编辑丨袁斯来 硬氪获悉，矿石AI智能分选设备企业——北京霍里思特科技有限公司（下称“霍里思特”）已完成近2亿元C轮融资，由招商局资本领投，京国瑞、大兴产投、北创投、开源思创及初辉资本跟投。本轮资金将主要用于核心技术研发、全球化业务拓展及团队建设。 霍里思特成立于2010年，是国内在全矿种（有色、黑色、非金属、放射性及煤矿）均有智能分选大量落地应用的设备供应商。公司核心团队源自清华大学精密仪器系国家重点实验室，创始人郭劲为清华精密仪器系硕士，曾任职GE医疗CT部门。公司在X射线光谱分析与AI智能识别算法领域有近二十年科研积累。 硬氪获悉，传统选矿主要依赖人工手选或湿法工艺。人工手选面...
+
+📎 [阅读原文](https://36kr.com/p/3753526848897792?f=rss)
+
+---
+
+### 高端智能投影品牌AWOL Vision获近亿元B轮融资，新品拿下近2000万美金众筹｜硬氪首发
+
+作者｜黄楠 编辑｜袁斯来 硬氪获悉，高端智能投影品牌AWOL Vision近日完成近亿元B轮融资，投资方包括天堂硅谷、会畅科技及金鹏佳等机构。资金将主要用于核心技术研发，持续迭代超短焦与长焦激光显示能力，并推进“家庭AI智能娱乐平台”生态构建；同时加快全球渠道与品牌拓展，强化供应链协同，并引入顶尖人才以夯实全球化运营基础。 AWOL Vision成立于2020年，长期专注RGB激光投影与家庭视听体验创新，并以深圳海高特科技有限公司作为其研发与设计中枢，为全球视听领域用户提供更具沉浸感的解决方案，重塑家庭娱乐体验。 3月31日，AWOL Vision新款超短焦4K三色激光投影产品Aetherio...
+
+📎 [阅读原文](https://36kr.com/p/3752260051616512?f=rss)
+
+---
+
+### 一群00后极客和这家机器人公司共处72小时
+
+2026年3月29日下午5点，在我们抵达深圳科创学院四楼时，参加“全球首届具身智能开发者大会”的20组选手，已经在这里持续开发了60个小时。 现场弥漫着一股咖啡混合着冷气的味道，随处可见没吃完的奶茶和果切，楼道里和墙角支着一个个帐篷，有选手在里面补觉，“前一天熬到凌晨4点”。 图片由智能涌现拍摄 和开发应用/软件的黑客松不同，在这场具身智能开发者大会上，看得见的，有近百台高性能六轴机械臂；看不见的，背后还有100+ PFLOPs的算力支持，以及自变量WALL-OSS、Pi0.5、英伟达DreamZero等开源基模可供选择。 图片由官方提供 “就没打过这么富裕的仗！”在B站有33万粉丝的“同济子...
+
+📎 [阅读原文](https://36kr.com/p/3752115857638145?f=rss)
+
+---
+
+### Peter Thiel’s big bet on solar-powered cow collars
+
+Why did Founders Fund invest $220 million in cattle management startup Halter?
+
+📎 [阅读原文](https://techcrunch.com/2026/04/04/unpacking-peter-thiels-big-bet-on-solar-powered-cow-collars/)
+
+---
+
+### Embattled startup Delve has ‘parted ways’ with Y Combinator
+
+The controversy around Delve appears to have cost the compliance startup its relationship with accelerator Y Combinator.
+
+📎 [阅读原文](https://techcrunch.com/2026/04/04/embattled-startup-delve-has-parted-ways-with-y-combinator/)
+
+---
+
+### Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage
+
+It’s about to become more expensive for Claude Code subscribers to use Anthropic’s coding assistant with OpenClaw and other third-party tools.
+
+📎 [阅读原文](https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/)
+
+---
+
+### The threat is comfortable drift toward not understanding what you're doing
+
+Article URL: https://ergosphere.blog/posts/the-machines-are-fine/ Comments URL: https://news.ycombinator.com/item?id=47647788 Points: 34 # Comments: 14
+
+📎 [阅读原文](https://ergosphere.blog/posts/the-machines-are-fine/)
+
+---
+
+### Talk like caveman
+
+Article URL: https://github.com/JuliusBrussee/caveman Comments URL: https://news.ycombinator.com/item?id=47647455 Points: 118 # Comments: 74
+
+📎 [阅读原文](https://github.com/JuliusBrussee/caveman)
+
+---
+
+### Lisette a little language inspired by Rust that compiles to Go
+
+Article URL: https://lisette.run/ Comments URL: https://news.ycombinator.com/item?id=47646843 Points: 100 # Comments: 43
+
+📎 [阅读原文](https://lisette.run/)
+
+---
+
+### Artemis II is going so well that we're left to talk about frozen urine
+
+"I think the fixation on the toilet is kind of human nature."
+
+📎 [阅读原文](https://arstechnica.com/space/2026/04/artemis-ii-is-going-so-well-that-were-left-to-talk-about-frozen-urine/)
+
+---
+
+### Tech companies are trying to neuter Colorado’s landmark right-to-repair law
+
+A state bill is a glimpse of how corporations are limiting people's ability to make their own fixes and upgrades.
+
+📎 [阅读原文](https://arstechnica.com/tech-policy/2026/04/tech-companies-are-trying-to-neuter-colorados-landmark-right-to-repair-law/)
+
+---
+
+### Trump proposes steep cut to NASA budget as astronauts head for the Moon
+
+Congress will likely reject the White House's NASA cuts, just as it did last year.
+
+📎 [阅读原文](https://arstechnica.com/space/2026/04/trump-proposes-steep-cut-to-nasa-budget-as-astronauts-head-for-the-moon/)
+
+---
+
+
+---
+
+📊 **今日摘要**: 27 篇精选文章
+
+- 🌍 国际: 7 篇
+- 🇨🇳 国内: 8 篇
+- 💼 科技: 12 篇
+
+*Generated by OpenClaw News Aggregator at 20:01 GMT+8*
