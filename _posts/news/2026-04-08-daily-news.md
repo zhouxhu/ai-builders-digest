@@ -1,37 +1,37 @@
 ---
 layout: default
-title: "新闻速递 — 2026-04-07"
-date: 2026-04-07
+title: "新闻速递 — 2026-04-08"
+date: 2026-04-08
 section: news
 ---
 
-# 📰 新闻速递 — 2026-04-07
+# 📰 新闻速递 — 2026-04-08
 
 ---
 
 ## 🌍 国际新闻
 
-### Artemis II crew head for home after travelling further from Earth than anyone before
+### Oil slides after Trump agrees to conditional two-week Iran ceasefire
 
-The Artemis II crew go further than any humans before in Nasa's first crewed mission to the Moon in over 50 years.
+Trump announced the deal not long before a deadline for a Tuesday evening ultimatum for Iran was reached.
 
-📎 [阅读原文](https://www.bbc.com/news/articles/cx23p6j5gxgo?at_medium=RSS&at_campaign=rss)
-
----
-
-### Watch: Artemis II's historic lunar flyby... in 90 seconds
-
-The four astronauts in the Orion spacecraft set a new record for distance travelled from Earth.
-
-📎 [阅读原文](https://www.bbc.com/news/videos/c3exp80x7vqo?at_medium=RSS&at_campaign=rss)
+📎 [阅读原文](https://www.bbc.com/news/articles/c8r40y3rv75o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### Plan 2 student loan interest rates capped at 6% in England
+### Wireless Festival cancelled after Kanye West blocked from coming to UK
 
-The cap on Plan 2 and postgraduate loan interest rates comes amid a risk of rising inflation.
+West was due to headline the festival in July but drew criticism over past antisemitic comments.
 
-📎 [阅读原文](https://www.bbc.com/news/articles/crr1e5zqdyko?at_medium=RSS&at_campaign=rss)
+📎 [阅读原文](https://www.bbc.com/news/articles/c4gxk3kxjr0o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### Has Artemis II shown we can land on the Moon again?
+
+The Artemis II mission has been near flawless to date, but has the test flight shown Nasa is ready to send humans to the lunar surface?
+
+📎 [阅读原文](https://www.bbc.com/news/articles/cj60nkd8nrko?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -43,27 +43,27 @@ CNN political contributor Maggie Haberman explains the reasoning behind Donald T
 
 ---
 
-### Videos capture shooting near Israeli consulate in Istanbul
+### Trump agrees to pause attacks on Iran if Strait of Hormuz opens
 
-Gunfire could be heard on videos filmed during a shooting near the Israeli consulate in the Turkish city of Istanbul.
+US President Donald Trump says he has agreed to extend his threatened deadline to attack Iran by two weeks.
 
-📎 [阅读原文](https://www.aljazeera.com/video/newsfeed/2026/4/7/videos-capture-shooting-near-israeli-consulate-in-istanbul?traffic_source=rss)
-
----
-
-### US-Israeli attacks on Iran are ‘clear and obvious war crimes’
-
-‘We’re in the time of monsters right now where we are headed towards the law of the jungle’.
-
-📎 [阅读原文](https://www.aljazeera.com/video/quotable/2026/4/7/us-israeli-attacks-on-iran-are-clear-and-obvious-war?traffic_source=rss)
+📎 [阅读原文](https://www.aljazeera.com/video/newsfeed/2026/4/7/trump-agrees-to-pause-attacks-on-iran-if-strait-of-hormuz-opens?traffic_source=rss)
 
 ---
 
-### Can Africa tackle the oil shock from the Iran war?
+### Billionaire investor Ackman makes $64bn bid for Universal Music Group
 
-African nations are scrambling to secure oil and gas as the Iran war disrupts supplies from the Middle East.
+Universal Music, the label behind superstars Taylor Swift and Bad Bunny, is expected to list in NY from Amsterdam.
 
-📎 [阅读原文](https://www.aljazeera.com/video/counting-the-cost/2026/4/7/can-africa-tackle-the-oil-shock-from-the-iran-war?traffic_source=rss)
+📎 [阅读原文](https://www.aljazeera.com/economy/2026/4/7/billionaire-investor-ackman-makes-64bn-bid-for-universal-music-group?traffic_source=rss)
+
+---
+
+### Trump announces two-week ceasefire as Iran agrees to reopen Hormuz Strait
+
+The US president nevertheless warned that the suspension was dependent on Iran reopening the Strait of Hormuz.
+
+📎 [阅读原文](https://www.aljazeera.com/news/2026/4/7/trump-suspends-iran-bombing-for-two-weeks-following-dire-threats?traffic_source=rss)
 
 ---
 
@@ -135,6 +135,14 @@ A high-level international advisory body applauded China's efforts to improve th
 
 ## 💼 财经科技
 
+### 8点1氪丨马斯克在对OpenAI的诉讼中寻求罢免奥特曼职位；宁德时代聘请紫金矿业创始人陈景河；产业链人士：苹果首款折叠屏手机项目正常推进，产品下半年发布
+
+今日热点导览 海康威视回应辟谣“监控系统出现漏洞，300多人被带走” 郭艾伦否认被骗千万 日本餐饮巨头食其家创始人心梗去世 产业链人士：苹果首款折叠屏手机项目正常推进 宇树科技移动机器人新专利获授权 TOP 3大新闻 嫣然天使儿童医院发文感谢陈光标捐赠1000万 4月7日，“北京嫣然天使儿童医院体检中心”官方账号发文感谢陈光标对嫣然医院的支持，并发布了颁发给陈光标的感谢证书。证书内文写到：感谢您对北京嫣然天使儿童医院的大力支持。因为你们的帮助，更多的孩子在这里重建笑容。我们坚信，唯有怀抱着善良与爱，才能在公益之路上勇敢前行！4月5日，陈光标发布视频并晒出1000万元的汇款凭证说：“亲爱的网友们...
+
+📎 [阅读原文](https://36kr.com/p/3757404054930182?f=rss)
+
+---
+
 ### 氪星晚报｜潘兴广场拟94亿欧元现金加股票收购环球音乐集团；高盛策略师：当前科技股估值带来投资机会；中国央行连续第17个月增持黄金
 
 大公司： 产业链人士：苹果首款折叠屏手机项目正常推进，产品下半年发布 4月6日，有媒体报道，富士康正在试产苹果首款折叠屏手机。对此，4月7日，苹果产业链人士向记者表示，苹果首款折叠屏手机项目方案早已确定，目前该项目正在正常推进中，试产是产品正式量产前必经阶段，一般需经过工程验证、设计验证、生产试产验证，最后再到正式量产，按正常推进计划，该产品将于今年秋季发布。（证券时报） 名创优品：预计2026年底将开设200家“乐园系”门店 36氪获悉，截至4月7日，名创优品已在全球落地65家“乐园系”门店，涵盖MINISO SPACE、MINISO FRIENDS、MINISO LAND、SUPER MI...
@@ -151,83 +159,75 @@ A high-level international advisory body applauded China's efforts to improve th
 
 ---
 
-### 36氪首发 | 钠电正极材料厂商完成数千万元融资，千吨级产能将进一步扩展
+### I can’t help rooting for tiny open source AI model maker Arcee
 
-作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，兴荣新源（厦门）科技有限公司（以下简称“兴荣新源”）近日完成了数千万元天使轮融资，由蓝图创投和厦门高新投共同投资，融资资金将主要用于研发投入及扩大产能。 兴荣新源成立于2022年，总部位于厦门市，致力于钠离子电池正极材料的研发、生产和销售，公司围绕复合磷酸铁钠（NFPP）技术路线，构建了系统化的材料设计与工艺能力。 兴荣新源的技术优势主要体现在材料设计与工艺创新上，公司采用独有的复合碳包覆技术，显著提升了NFPP材料的电子导电性；通过配方体系优化与精细化工艺控制，抑制了杂相生成，进一步提升了材料的结构纯度与一致性；通过纳米级颗粒设计并引入级配理论，...
+Arcee is a tiny 26-person U.S. startup that built a high-performing, massive, open source LLM. And it's gaining popularity with OpenClaw users.
 
-📎 [阅读原文](https://36kr.com/p/3756486340199170?f=rss)
-
----
-
-### Spotify’s prompted playlist feature will now work for podcasts, too
-
-Spotify will now allow users to input natural language prompts to create podcast playlist.
-
-📎 [阅读原文](https://techcrunch.com/2026/04/07/spotifys-prompted-playlist-feature-will-now-work-for-podcasts-too/)
+📎 [阅读原文](https://techcrunch.com/2026/04/07/i-cant-help-rooting-for-tiny-open-source-ai-model-maker-arcee/)
 
 ---
 
-### AI startup Rocket offers vibe McKinsey-style reports at a fraction of the cost
+### VC Eclipse has a new $1.3B fund to back — and build — ‘physical AI’ startups
 
-Rocket's new AI platform combines strategy, product building, and competitive intelligence, aiming to move beyond code generation.
+Eclipse will put some of that money towards incubating, or building startups.
 
-📎 [阅读原文](https://techcrunch.com/2026/04/06/indian-startup-rocket-wants-its-ai-to-do-mckinsey-style-consulting-at-a-fraction-of-the-cost/)
-
----
-
-### AI design platform Picsart launches a creator monetization program
-
-The program invites creators to create original content with Picsart tools for a specific campaign, share it on their social channels, and earn revenue based on how their audience engages.
-
-📎 [阅读原文](https://techcrunch.com/2026/04/06/ai-design-platform-picsart-launches-a-creator-monetization-program/)
+📎 [阅读原文](https://techcrunch.com/2026/04/07/vc-eclipse-has-a-new-1-3b-to-back-and-build-physical-ai-startups/)
 
 ---
 
-### LLM may be standardizing human expression – and subtly influencing how we think
+### Iranian hackers are targeting American critical infrastructure, US agencies warn
 
-Article URL: https://dornsife.usc.edu/news/stories/ai-may-be-making-us-think-and-write-more-alike/ Comments URL: https://news.ycombinator.com/item?id=47673541 Points: 20 # Comments: 5
+A joint FBI, NSA, and CISA advisory warns that Iranian hackers have "escalated" their tactics in response to the ongoing U.S.-Israel war with Iran.
 
-📎 [阅读原文](https://dornsife.usc.edu/news/stories/ai-may-be-making-us-think-and-write-more-alike/)
-
----
-
-### Show HN: Brutalist Concrete Laptop Stand (2024)
-
-Article URL: https://sam-burns.com/posts/concrete-laptop-stand/ Comments URL: https://news.ycombinator.com/item?id=47673360 Points: 18 # Comments: 3
-
-📎 [阅读原文](https://sam-burns.com/posts/concrete-laptop-stand/)
+📎 [阅读原文](https://techcrunch.com/2026/04/07/iranian-hackers-are-targeting-american-critical-infrastructure-u-s-agencies-warn/)
 
 ---
 
-### Germany Power Prices Turn Deeply Negative on Renewables Surge
+### Ex-Meta worker investigated for downloading 30k private Facebook photos
 
-Article URL: https://www.bloomberg.com/news/articles/2026-04-07/germany-power-prices-turn-deeply-negative-on-renewables-surge Comments URL: https://news.ycombinator.com/item?id=47673072 Points: 47 # Comments: 47
+Article URL: https://www.bbc.com/news/articles/cvg049xz1ygo Comments URL: https://news.ycombinator.com/item?id=47682098 Points: 18 # Comments: 7
 
-📎 [阅读原文](https://www.bloomberg.com/news/articles/2026-04-07/germany-power-prices-turn-deeply-negative-on-renewables-surge)
-
----
-
-### Intel is going all-in on advanced chip packaging
-
-Intel is hoping to cash in on the AI boom.
-
-📎 [阅读原文](https://arstechnica.com/gadgets/2026/04/intel-is-going-all-in-on-advanced-chip-packaging/)
+📎 [阅读原文](https://www.bbc.com/news/articles/cvg049xz1ygo)
 
 ---
 
-### Astronauts set distance record, revealing the Moon as a place to be explored
+### RSoC 2026: A new CPU scheduler for Redox OS
 
-"Humans have probably not evolved to see what we’re seeing. It is truly hard to describe. It is amazing."
+Article URL: https://www.redox-os.org/news/rsoc-dwrr/ Comments URL: https://news.ycombinator.com/item?id=47681701 Points: 12 # Comments: 2
 
-📎 [阅读原文](https://arstechnica.com/space/2026/04/astronauts-set-distance-record-revealing-the-moon-as-a-place-to-be-explored/)
+📎 [阅读原文](https://www.redox-os.org/news/rsoc-dwrr/)
 
 ---
 
-### After court loss, RFK Jr. gives himself more power over CDC vaccine panel
+### USD Purchasing Power in Real Time Since 2000
 
-The charter renewal gives Kennedy broad authority to pick anyone for the panel.
+Article URL: https://onedollar.today/ Comments URL: https://news.ycombinator.com/item?id=47681566 Points: 47 # Comments: 36
 
-📎 [阅读原文](https://arstechnica.com/health/2026/04/after-court-loss-rfk-jr-gives-himself-more-power-over-cdc-vaccine-panel/)
+📎 [阅读原文](https://onedollar.today/)
+
+---
+
+### Valve brings native Steam Link app to Apple's Vision Pro
+
+New app can replace third-party options that were jankier to use.
+
+📎 [阅读原文](https://arstechnica.com/gaming/2026/04/valve-brings-native-steam-link-app-to-apples-vision-pro/)
+
+---
+
+### Apple and Lenovo have the least repairable laptops, analysis finds
+
+The MacBook Neo is a step in the right direction, though.
+
+📎 [阅读原文](https://arstechnica.com/gadgets/2026/04/apple-has-the-lowest-grades-in-laptop-phone-repairability-analysis/)
+
+---
+
+### What the heck is wrong with our AI overlords?
+
+New profile of Sam Altman shines a light on a whole industry.
+
+📎 [阅读原文](https://arstechnica.com/tech-policy/2026/04/what-the-heck-is-wrong-with-our-ai-overlords/)
 
 ---
 
@@ -240,4 +240,4 @@ The charter renewal gives Kennedy broad authority to pick anyone for the panel.
 - 🇨🇳 国内: 8 篇
 - 💼 科技: 12 篇
 
-*Generated by OpenClaw News Aggregator at 20:02 GMT+8*
+*Generated by OpenClaw News Aggregator at 08:03 GMT+8*
