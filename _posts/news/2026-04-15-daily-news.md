@@ -11,27 +11,27 @@ section: news
 
 ## 🌍 国际新闻
 
-### Trump hints Iran talks could resume this week as US maritime blockade continues
+### Legal advisers help migrants pose as gay to get asylum, undercover BBC investigation finds
 
-The United Nations' secretary general said it was "highly probable" that the negotiations would restart.
+The BBC exposes a shadow industry charging migrants thousands of pounds to help them cheat the asylum system.
 
-📎 [阅读原文](https://www.bbc.com/news/articles/c20ddnz4w5lo?at_medium=RSS&at_campaign=rss)
-
----
-
-### UK faces biggest hit to growth from Iran war of major economies, IMF says
-
-The financial body cuts its growth forecast for the UK and warns the war threatens to throw the global economy "off course".
-
-📎 [阅读原文](https://www.bbc.com/news/articles/c3v670qwz97o?at_medium=RSS&at_campaign=rss)
+📎 [阅读原文](https://www.bbc.com/news/articles/c937wldkkw8o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### Help to Buy mostly helped high earners, IFS says
+### Watch: Reporter told to pose as gay for asylum claim
 
-People with lower incomes benefitted less from the house-buying scheme than those with high incomes, the influential think tank says.
+A BBC reporter goes undercover and speaks to an adviser encouraging migrants to cheat the asylum system.
 
-📎 [阅读原文](https://www.bbc.com/news/articles/cy511kd5lkwo?at_medium=RSS&at_campaign=rss)
+📎 [阅读原文](https://www.bbc.com/news/videos/cjd89jy7lp7o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### AA and BSM ordered to refund learner drivers for hidden fees
+
+The owner of the driving schools has been fined for failing to disclose fees upfront online.
+
+📎 [阅读原文](https://www.bbc.com/news/articles/c07000dzg9do?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -43,27 +43,27 @@ CNN political contributor Maggie Haberman explains the reasoning behind Donald T
 
 ---
 
-### Israel and Lebanon hold rare talks in Washington, DC, amid Iran war
+### Double standards? Why Iran’s nukes are scrutinised, Israel gets a pass
 
-The meeting marks the first direct talks between the two sides, though US officials say more time is needed.
+Israel’s policy of ambiguity about its nuclear capability contrasts sharply with the focus on Iran’s programme.
 
-📎 [阅读原文](https://www.aljazeera.com/news/2026/4/14/israel-and-lebanon-hold-rare-talks-in-washington-dc-amid-iran-war?traffic_source=rss)
-
----
-
-### The Take: Who is keeping the fight alive in Sudan’s war?
-
-What three years of war have done to Sudan.
-
-📎 [阅读原文](https://www.aljazeera.com/video/the-take-2/2026/4/14/aje-onl-sdn_anniversary26_av_v2-140426?traffic_source=rss)
+📎 [阅读原文](https://www.aljazeera.com/news/2026/4/15/double-standards-why-irans-nukes-are-scrutinised-israel-gets-a-pass?traffic_source=rss)
 
 ---
 
-### Fifth woman accuses former US lawmaker Eric Swalwell of sexual misconduct
+### Maradona’s medical team could have saved his life, prosecutor says
 
-The Democratic representative has resigned his seat in Congress over multiple sexual misconduct allegations.
+'Maradona began to die 12 hours before his actual death,' a prosecutor in new trial on the Argentinian's death says.
 
-📎 [阅读原文](https://www.aljazeera.com/news/2026/4/14/fifth-woman-accuses-former-us-lawmaker-eric-swalwell-of-sexual-misconduct?traffic_source=rss)
+📎 [阅读原文](https://www.aljazeera.com/sports/2026/4/15/maradonas-medical-team-could-have-saved-his-life-prosecutor-says?traffic_source=rss)
+
+---
+
+### Barcelona starlets to learn from Atletico Madrid Champions League defeat
+
+Barcelona won 2-1 in the second leg of their Champions League quarterfinal, as Atletico claimed tie 3-2 on aggregate.
+
+📎 [阅读原文](https://www.aljazeera.com/sports/2026/4/15/barcelona-starlets-to-learn-from-atletico-madrid-champions-league-defeat?traffic_source=rss)
 
 ---
 
@@ -135,27 +135,43 @@ A high-level international advisory body applauded China's efforts to improve th
 
 ## 💼 财经科技
 
-### 《明末》团队解散背后，国产单机究竟还缺什么？
+### 粗门完成数千万A+轮融资，在AI时代让更多人“出门”｜36氪首发
 
-文丨果脯 编辑丨刘士武 过去几天里，《明末：渊虚之羽》（后称：明末）制作组解散、制作人夏思源离职创业的消息，让不少人感到唏嘘。 这款由灵泽科技开发的国产类魂动作游戏，曾被寄予厚望，后续也取得了不错的成绩。 据统计，2025年上线后，游戏在Steam预估销量约120万套，主机平台PS5约30至40万套，加上其他渠道总计约200万套，销售额超过5亿元。这样的成绩，放在国内单机史上，已与《戴森球计划》《鬼谷八荒》等大火产品同处一个量级。 更重要的是，它把国产单机游戏的单价继续推到了3A级价位——Steam国区248元，海外49.99美元，又一次证明了国产单机也能站稳3A赛道。 《明末：渊虚之羽》的S...
+36氪获悉，线下兴趣活动社区“粗门”已完成新一轮融资，投资方为一家长期关注消费与生活方式领域的香港家族基金。 本轮资金将主要用于扩大品牌影响力、提升优质主理人供给，并加速社区生态与玩法体系建设。这也是粗门继2023年获得Keep战略投资后的又一次融资。 粗门正在试图重构一件逐渐被忽视的事情——人们“如何在现实世界一起玩”。 当线上娱乐极度丰富，线下体验反而变稀缺 过去二十年，互联网解决的是“链接”和“内容”。但今天，一个新的问题正在出现：线上娱乐越丰富，线下真实体验反而越稀缺。 短视频、游戏、社交平台占据了大量时间，但人与人之间面对面的真实互动却在减少。粗门创始人湘翁曾负责闲鱼产品与支付宝B端...
 
-📎 [阅读原文](https://36kr.com/p/3766718158324489?f=rss)
-
----
-
-### 网易互娱架构调整，市场负责人王怡调任海外
-
-文 | 贝果树 编辑 | 果脯 4月14日，网易互娱回应了“网易互娱市场中心负责人网怡离职”的传闻。网易互娱表示上述信息不实，“裁撤营销中台”也属子虚乌有，王怡因个人原因提出调任，已获公司批准。 网易互娱发布的内部邮件显示，市场负责人王怡工作地点将调整至海外。原市场中心更名为用户增长中心，原渠道发行中心更名为发行中心。相关组织架构和人员调整工作将在4月内完成。 王怡曾任宝洁品牌经理，于2010年加入网易，负责网易旗下游戏的市场营销工作，在网易任职长达16年，是网易游戏营销体系的核心人物。王怡长期活跃于行业活动，2016-2023年间，王怡多次以“网易副总裁”的身份出席中国游戏产业年会，发表演讲...
-
-📎 [阅读原文](https://36kr.com/p/3766722584822537?f=rss)
+📎 [阅读原文](https://36kr.com/p/3766710136570368?f=rss)
 
 ---
 
-### 氪星晚报｜高德首款具身机器人将亮相；日产发布转型计划：削减20%车型，冲刺中美百万销量；随着战略转向，OpenAI的8520亿美元估值遭投资者质疑
+### 最前线｜追觅生态企业娲宝科技发布宠物智能项圈，布局“项圈+宠粮”数据闭环
 
-大公司： 全球最大零食店“零食王国”将于4月17日开业 36氪获悉，由鸣鸣很忙集团创建的全球规模最大的沉浸式零食体验空间“零食王国”，将于4月17日在湖南长沙芙蓉广场正式开业。该项目拥有超1.2万㎡的零售与体验空间，汇聚了全球约70个国家和地区的风味、超过6500个国内外品牌及3.5万款商品。 TCL电子将出售印度电视制造业务？公司回应：不持有该资产 针对TCL电子拟出售印度电视制造部门股份传闻，TCL电子代表今日回应称，“公司并不拥有此前报道中提到的资产”。据此前报道，TCL电子控股有限公司正考虑向印度买家出售其在当地电视制造部门的部分股份，以帮助务增长。 苹果新款平价电脑MacBook N...
+作者 | 乔钰杰 编辑 | 袁斯来 4月13日，娲宝科技正式推出新一代宠物智能项圈，并同步披露其技术架构及后续产品布局。 图源企业 近年来，宠物相关消费持续增长，行业正由基础饲养逐步向精细化健康管理延伸。在宠物智能硬件领域，现有产品多集中于定位、围栏及运动记录等功能，部分产品开始引入心率、体温等基础生理指标监测，但整体仍以单点数据为主，数据维度与应用场景相对有限，尚未形成完整的健康管理闭环。 在此背景下，娲宝科技将产品定位为长期健康数据采集终端，尝试通过硬件、数据、宠粮与后续服务结合的方式，拓展应用场景。 此次发布的智能项圈，采用声、光、力多模态传感方案，结合骨传导、光谱与柔性传感技术，对宠物...
 
-📎 [阅读原文](https://36kr.com/p/3766487517594377?f=rss)
+📎 [阅读原文](https://36kr.com/p/3767424500171271?f=rss)
+
+---
+
+### 8点1氪丨许家印一审当庭认罪悔罪；交管部门回应新能源车牌绿色变白色；生成内容涉黄，哩布哩布AI回应
+
+今日热点导览 可能含有“永久性化学物”，Lululemon在美被调查 近一周“一口价”黄金产品最高下跌17% 中国将健全药品价格形成机制 离境退税2.0版措施预计4月底前推出 苹果加码iPhone Fold TOP3大新闻 恒大集团、恒大地产及许家印案一审开庭 2026年4月13日至14日，广东省深圳市中级人民法院对深圳市人民检察院提起公诉的被告单位恒大集团有限公司非法吸收公众存款、集资诈骗、违法发放贷款、欺诈发行证券、违规披露重要信息、单位行贿，被告单位恒大地产集团有限公司欺诈发行证券，被告人许家印非法吸收公众存款、集资诈骗、违法发放贷款、违法运用资金、欺诈发行证券、违规披露重要信息、职务侵...
+
+📎 [阅读原文](https://36kr.com/p/3767326268392199?f=rss)
+
+---
+
+### Spotify launches the ability to purchase physical books in the US and UK
+
+Spotify users in the US and UK can officially purchase physical books through the Android app. iOS users will get the feature next week.
+
+📎 [阅读原文](https://techcrunch.com/2026/04/15/spotify-launches-the-ability-to-purchase-physical-books-in-the-us-and-uk/)
+
+---
+
+### Anthropic’s rise is giving some OpenAI investors second thoughts
+
+One investor who has backed both companies told the FT that justifying OpenAI's recent round required assuming an IPO valuation of $1.2 trillion or more — making Anthropic's current $380 billion valuation look like the relative bargain.
+
+📎 [阅读原文](https://techcrunch.com/2026/04/14/anthropics-rise-is-giving-some-openai-investors-second-thoughts/)
 
 ---
 
@@ -167,43 +183,27 @@ Fundraising is reportedly flowing for Fluidstack after it secured a $50 billion 
 
 ---
 
-### Someone planted backdoors in dozens of WordPress plug-ins used in thousands of websites
+### Want to Write a Compiler? Just Read These Two Papers (2008)
 
-Dozens of WordPress plug-ins were allegedly hijacked to push malware after they were sold to a new corporate owner.
+Article URL: https://prog21.dadgum.com/30.html Comments URL: https://news.ycombinator.com/item?id=47776796 Points: 118 # Comments: 45
 
-📎 [阅读原文](https://techcrunch.com/2026/04/14/someone-planted-backdoors-in-dozens-of-wordpress-plugins-used-in-thousands-of-websites/)
-
----
-
-### Anthropic co-founder confirms the company briefed the Trump administration on Mythos
-
-In an interview at the Semafor World Economy summit this week, Anthropic co-founder Jack Clark explained why the company was still engaged with the U.S. government while simultaneously suing them.
-
-📎 [阅读原文](https://techcrunch.com/2026/04/14/anthropic-co-founder-confirms-the-company-briefed-the-trump-administration-on-mythos/)
+📎 [阅读原文](https://prog21.dadgum.com/30.html)
 
 ---
 
-### Fuck the cloud (2009)
+### 'Seeking connection': video game where players stopped shooting, started talking
 
-Article URL: https://ascii.textfiles.com/archives/1717 Comments URL: https://news.ycombinator.com/item?id=47772048 Points: 36 # Comments: 18
+Article URL: https://www.theguardian.com/games/2026/apr/15/arc-raiders-players-stopped-shooting-started-talking Comments URL: https://news.ycombinator.com/item?id=47776723 Points: 30 # Comments: 27
 
-📎 [阅读原文](https://ascii.textfiles.com/archives/1717)
-
----
-
-### Free, fast diagnostic tools for DNS, email authentication, and network security
-
-Article URL: https://mrdns.com/ Comments URL: https://news.ycombinator.com/item?id=47771220 Points: 13 # Comments: 0
-
-📎 [阅读原文](https://mrdns.com/)
+📎 [阅读原文](https://www.theguardian.com/games/2026/apr/15/arc-raiders-players-stopped-shooting-started-talking)
 
 ---
 
-### Trusted access for the next era of cyber defense
+### Direct Win32 API, Weird-Shaped Windows, and Why They Mostly Disappeared
 
-Article URL: https://openai.com/index/scaling-trusted-access-for-cyber-defense/ Comments URL: https://news.ycombinator.com/item?id=47770770 Points: 48 # Comments: 37
+Article URL: https://warped3.substack.com/p/direct-win32-api-weird-shaped-windows Comments URL: https://news.ycombinator.com/item?id=47776667 Points: 55 # Comments: 19
 
-📎 [阅读原文](https://openai.com/index/scaling-trusted-access-for-cyber-defense/)
+📎 [阅读原文](https://warped3.substack.com/p/direct-win32-api-weird-shaped-windows)
 
 ---
 
@@ -240,4 +240,4 @@ Do you trust AI chatbots for health advice? What about one in your patient porta
 - 🇨🇳 国内: 8 篇
 - 💼 科技: 12 篇
 
-*Generated by OpenClaw News Aggregator at 08:02 GMT+8*
+*Generated by OpenClaw News Aggregator at 20:01 GMT+8*
