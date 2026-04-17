@@ -1,37 +1,37 @@
 ---
 layout: default
-title: "新闻速递 — 2026-04-16"
-date: 2026-04-16
+title: "新闻速递 — 2026-04-17"
+date: 2026-04-17
 section: news
 ---
 
-# 📰 新闻速递 — 2026-04-16
+# 📰 新闻速递 — 2026-04-17
 
 ---
 
 ## 🌍 国际新闻
 
-### Migrants making false domestic abuse claims to stay in UK, BBC investigation finds
+### Top Foreign Office official to leave post after Mandelson vetting row
 
-In the third part of an undercover investigation, the BBC reveals how rules aimed at protecting abuse victims are being exploited.
+It comes after it emerged the peer failed security vetting but the Foreign Office still allowed him to take up the post.
 
-📎 [阅读原文](https://www.bbc.com/news/articles/crl19dzdd38o?at_medium=RSS&at_campaign=rss)
-
----
-
-### UK prepares for food shortages in worst case scenario as Iran war continues
-
-The UK could face some food shortages by the summer under a worst case scenario drawn up by government officials.
-
-📎 [阅读原文](https://www.bbc.com/news/articles/cpvxp4xnrwdo?at_medium=RSS&at_campaign=rss)
+📎 [阅读原文](https://www.bbc.com/news/articles/c747r3v90k3o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### Church warden murder conviction quashed
+### UK seeks closer EU ties in volatile times - but at what cost?
 
-Benjamin Field has been in prison for the murder of Peter Farquhar, 69.
+The UK is adopting a "ruthlessly pragmatic" approach to becoming closer to its European neighbours, the UK's EU minister tells the BBC.
 
-📎 [阅读原文](https://www.bbc.com/news/articles/c93elnv973ro?at_medium=RSS&at_campaign=rss)
+📎 [阅读原文](https://www.bbc.com/news/articles/cqj8pg5yppwo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### Andrew invited to relinquish Freedom of City
+
+Andrew Mountbatten-Windsor received the historic honour in 2012 "by virtue of patrimony".
+
+📎 [阅读原文](https://www.bbc.com/news/articles/c239219g7l5o?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -43,27 +43,27 @@ CNN political contributor Maggie Haberman explains the reasoning behind Donald T
 
 ---
 
-### Who is Roelf Meyer, South Africa’s new ambassador to the US?
+### People in Beirut wary of trusting Israel will uphold Lebanon ceasefire
 
-So who is Meyer and will his appointment help improve ties between the two countries?
+Lebanon’s residents say they are wary of trusting that Israel will abide by the ceasefire agreement announced by Trump.
 
-📎 [阅读原文](https://www.aljazeera.com/news/2026/4/16/who-is-roelf-meyer-south-africas-new-ambassador-to-the-us-2?traffic_source=rss)
-
----
-
-### Ceasefire in Lebanon ‘as important’ as in Iran, says Ghalibaf
-
-Tehran 'striving' to compel US and Israel to establish permanent ceasefire in all conflict zones, Iranian speaker says.
-
-📎 [阅读原文](https://www.aljazeera.com/news/2026/4/16/ceasefire-in-lebanon-as-important-as-in-iran-says-ghalibaf?traffic_source=rss)
+📎 [阅读原文](https://www.aljazeera.com/video/newsfeed/2026/4/16/people-in-beirut-wary-of-trusting-israel-will-uphold-lebanon-ceasefire?traffic_source=rss)
 
 ---
 
-### Israeli army says soldiers accused of abusing Palestinian to return to duty
+### US panel approves Trump’s design for massive arch in Washington, DC
 
-Some of the reservists accused of abusing a Palestinian detainee have started combat roles, reports Israeli Army Radio.
+The proposed 76-metre arch would tower over other iconic landmarks in Washington, DC, and has attracted scrutiny.
 
-📎 [阅读原文](https://www.aljazeera.com/news/2026/4/16/israeli-army-says-soldiers-accused-of-abusing-palestinian-to-return-to-duty?traffic_source=rss)
+📎 [阅读原文](https://www.aljazeera.com/news/2026/4/16/us-panel-approves-trumps-design-for-massive-arch-in-washington-dc?traffic_source=rss)
+
+---
+
+### Israel and Lebanon’s 10-day ceasefire goes into effect
+
+A 10-day ceasefire between Israel and Lebanon has gone into effect. It began at midnight local time (21:00 GMT).
+
+📎 [阅读原文](https://www.aljazeera.com/video/newsfeed/2026/4/16/israel-and-lebanons-10-day-ceasefire-goes-into-effect?traffic_source=rss)
 
 ---
 
@@ -135,6 +135,14 @@ A high-level international advisory body applauded China's efforts to improve th
 
 ## 💼 财经科技
 
+### 智元旗下觅蜂发布一站式物理 AI 数据服务平台｜最前线
+
+2026年，大语言模型和视频生成大模型都在疯狂烧token，而具身机器人行业却正在经历“无token可烧”的局面。大模型能像人一样读书，而具身智能要去真实的世界里摸爬滚打才能获取数据——数据的匮乏成为了卡住全行业的瓶颈。 4月16日，智元机器人旗下觅蜂科技发布一站式物理 AI 数据服务平台，希望能让数据像水电一样即取即用。 “GPT5用了100万亿tokens的训练语料。1token约等于0.75个英语单词，如果一个正常人一分钟能说150个词，这个语料级就等于一个人要说100亿个小时才能说完。”觅蜂科技董事长兼 CEO 姚卯青说，“但具身智能不一样。今天，全世界的高质量数据汇聚在一起，可能也只...
+
+📎 [阅读原文](https://36kr.com/p/3769501816439555?f=rss)
+
+---
+
 ### 氪星晚报｜特斯拉拟在上海生产人形机器人；台积电CEO：全力扩产仍难以满足强劲AI需求；奥迪高管透露明年将推第三款中国专属车型
 
 大公司： 亚马逊全球智能枢纽仓（GWD）深圳首仓面向卖家正式开放 36氪获悉，亚马逊今日宣布，全球首个亚马逊全球智能枢纽仓（Global Warehousing and Distribution, GWD）在深圳正式向卖家全面开放。目前，深圳GWD仓支持向亚马逊美国站运营中心（Fulfillment Center）发货。 京东发布机器人产业服务全景图 36氪获悉，4月15日，京东发布“机器人产业服务全景图”。全景图聚焦三大核心：携手超 200家品牌，目标2026年销售破百亿；依托超级供应链，建全球最大具身数据采集中心、京东机器人售后维修服务3年覆盖50余城；基于JoyAI大模型加速开放JoyI...
@@ -151,83 +159,75 @@ A high-level international advisory body applauded China's efforts to improve th
 
 ---
 
-### 找100个被资本选中的答案｜2026“最受关注”企业名册评选启动
+### Factory hits $1.5B valuation to build AI coding for enterprises
 
-出品｜36氪创投研究院 文｜罗婧、杜梦 当资本褪去浮躁、回归理性，当概念让位于落地、实效成为行业硬通货，当AI深度重构产业格局、硬科技筑牢行业发展底色， 2026年的一级市场，已然迈入真实价值主导的全新创投时代。 又一波浪潮袭来，谁在被看见，谁在被押注？ 市场逻辑已然彻底迭代：从盲目追逐风口，转向审慎布局长期；从为资本故事买单，转向为技术壁垒、商业增长、成熟商业化路径下注。行业用最直白的规则印证：能赢得市场认可、能穿越经济周期的，从来不是虚无的资本泡沫，而是扎实的核心技术、清晰的商业闭环、可验证的稳健成长。 从技术趋势看，AI早已跳出实验室范畴，深度融入产业底座，大模型、智能体、具身智能、机器...
+The three-year-old startup raised $150 million led by Khosla Ventures.
 
-📎 [阅读原文](https://36kr.com/p/3768967684096521?f=rss)
-
----
-
-### DeepL, known for text translation, now wants to translate your voice
-
-DeepL says its tech could be used for real-time translation with meeting tools like Zoom and Microsoft Teams
-
-📎 [阅读原文](https://techcrunch.com/2026/04/16/deepl-known-for-text-translation-now-wants-to-translate-your-voice/)
+📎 [阅读原文](https://techcrunch.com/2026/04/16/factory-hits-1-5b-valuation-to-build-ai-coding-for-enterprises/)
 
 ---
 
-### Amazon-backed X-energy files to raise up to $800M in IPO
+### Luma launches AI-powered production studio with faith-focused Wonder Project
 
-Nuclear startup X-energy hit the road today to sell prospective investors on its initial public offering.
+The studio's first project will be about Moses and star Academy Award-winner Ben Kingsley, to be released this spring on Prime Video.
 
-📎 [阅读原文](https://techcrunch.com/2026/04/15/amazon-backed-x-energy-files-to-raise-up-to-800m-in-ipo/)
-
----
-
-### Ford EV and tech chief leaving automaker
-
-Doug Field had stints at Apple and Tesla before joining Ford in 2021.
-
-📎 [阅读原文](https://techcrunch.com/2026/04/15/ford-ev-and-tech-chief-leaving-automaker/)
+📎 [阅读原文](https://techcrunch.com/2026/04/16/luma-launches-ai-powered-production-studio-with-faith-focused-wonder-project/)
 
 ---
 
-### The noise we make is hurting animals. Can we learn to shut up?
+### Netflix co-founder and chair Reed Hastings to leave board
 
-Article URL: https://www.technologyreview.com/2026/04/16/1135179/anthropogenic-noise-hurting-animals/ Comments URL: https://news.ycombinator.com/item?id=47791507 Points: 11 # Comments: 2
+Hastings helped to transform the video rental industry — first with physical, then digital, delivery.
 
-📎 [阅读原文](https://www.technologyreview.com/2026/04/16/1135179/anthropogenic-noise-hurting-animals/)
-
----
-
-### Ancient DNA reveals pervasive directional selection across West Eurasia [pdf]
-
-Article URL: https://reich.hms.harvard.edu/sites/reich.hms.harvard.edu/files/inline-files/2026_Akbari_Nature_selection_0.pdf Comments URL: https://news.ycombinator.com/item?id=47791282 Points: 13 # Comments: 1
-
-📎 [阅读原文](https://reich.hms.harvard.edu/sites/reich.hms.harvard.edu/files/inline-files/2026_Akbari_Nature_selection_0.pdf)
+📎 [阅读原文](https://techcrunch.com/2026/04/16/netflix-co-founder-and-chair-reed-hastings-to-leave-board/)
 
 ---
 
-### Codex Hacked a Samsung TV
+### George Orwell Predicted the Rise of "AI Slop" in Nineteen Eighty-Four (1949)
 
-Article URL: https://blog.calif.io/p/codex-hacked-a-samsung-tv Comments URL: https://news.ycombinator.com/item?id=47791212 Points: 33 # Comments: 25
+Article URL: https://www.openculture.com/2026/04/how-george-orwell-predicted-the-rise-of-ai-slop.html Comments URL: https://news.ycombinator.com/item?id=47800765 Points: 14 # Comments: 3
 
-📎 [阅读原文](https://blog.calif.io/p/codex-hacked-a-samsung-tv)
-
----
-
-### The race to Shackleton Crater is on—will Jeff Bezos or China get there first?
-
-US and Chinese landers could be operating in close proximity on the Moon later this year.
-
-📎 [阅读原文](https://arstechnica.com/space/2026/04/the-race-to-shackleton-crater-is-on-will-jeff-bezos-or-china-get-there-first/)
+📎 [阅读原文](https://www.openculture.com/2026/04/how-george-orwell-predicted-the-rise-of-ai-slop.html)
 
 ---
 
-### Florida surgeon charged with killing man after removing liver instead of spleen
+### New unsealed records reveal Amazon's price-fixing tactics, California AG claims
 
-It wasn't the first time the surgeon cut out the wrong organ.
+Article URL: https://www.theguardian.com/us-news/ng-interactive/2026/apr/16/amazon-price-fixing-california-lawsuit Comments URL: https://news.ycombinator.com/item?id=47800166 Points: 55 # Comments: 9
 
-📎 [阅读原文](https://arstechnica.com/health/2026/04/florida-surgeon-charged-with-killing-man-after-removing-liver-instead-of-spleen/)
+📎 [阅读原文](https://www.theguardian.com/us-news/ng-interactive/2026/apr/16/amazon-price-fixing-california-lawsuit)
 
 ---
 
-### Jury finds Live Nation/Ticketmaster is illegal monopoly that overcharged fans
+### Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine
 
-Trump administration dropped out of the trial, but 33 states kept fighting.
+Article URL: https://github.com/gainsec/autoprober Comments URL: https://news.ycombinator.com/item?id=47800033 Points: 60 # Comments: 9
 
-📎 [阅读原文](https://arstechnica.com/tech-policy/2026/04/jury-finds-live-nation-ticketmaster-is-illegal-monopoly-that-overcharged-fans/)
+📎 [阅读原文](https://github.com/gainsec/autoprober)
+
+---
+
+### Intel refreshes non-Ultra Core CPUs with new silicon for the first time
+
+For the first time in a while, the benefits of new Intel tech will trickle down.
+
+📎 [阅读原文](https://arstechnica.com/gadgets/2026/04/intels-non-ultra-core-cpus-are-new-silicon-this-year-for-a-change/)
+
+---
+
+### OpenAI starts offering a biology-tuned LLM
+
+GPT-Rosalind is an LLM trained on biology workflows, available in closed access.
+
+📎 [阅读原文](https://arstechnica.com/science/2026/04/openai-starts-offering-a-biology-tuned-llm/)
+
+---
+
+### As they got close to the Moon, Artemis II astronauts were eager to land
+
+"If you had given us the keys to the lander, we would have taken it down."
+
+📎 [阅读原文](https://arstechnica.com/space/2026/04/artemis-ii-astronauts-say-landing-on-the-moon-is-absolutely-doable-soon/)
 
 ---
 
@@ -240,4 +240,4 @@ Trump administration dropped out of the trial, but 33 states kept fighting.
 - 🇨🇳 国内: 8 篇
 - 💼 科技: 12 篇
 
-*Generated by OpenClaw News Aggregator at 20:01 GMT+8*
+*Generated by OpenClaw News Aggregator at 08:03 GMT+8*
